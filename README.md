@@ -40,3 +40,7 @@ When you're finished with the changes, create a pull request, also known as a PR
 - Fill in the pull request description, which summarizes the traits being added.
 - Enable the checkbox to [allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) so the branch can be updated for a merge.
 - We may ask for changes to be made before a PR can be merged, either using [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) or pull request comments. You can apply suggested changes directly through the UI. You can make any other changes in your fork, then commit them to your branch.
+
+## Getting Help
+
+If you have questions or need assistance, please open an issue on this repository or reach out to the Nouns community.
